@@ -14,6 +14,11 @@ section#head {
   border-radius: 50%;
 }
 
+.card img {
+  min-height: 300px;
+  object-fit: contain;
+}
+
 .bg {
   background-color: #3d41b8;
 }
